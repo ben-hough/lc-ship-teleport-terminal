@@ -1,3 +1,5 @@
+> This mod has moved to https://github.com/ben-hough/lc-mods/tree/main/ShipTeleportTerminal. This repo is archived and read-only; full history was preserved there.
+
 # ShipTeleportTerminal
 
 Terminal commands to fire the ship teleporter (same as pressing the teleporter button).
